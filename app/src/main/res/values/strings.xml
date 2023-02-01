@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Discución de resultados</string>
+    <string name="resultado">%f</string>
+    <string name="numeroPrimero">Digite el primer valor></string>
+    <string name="numeroSegundo">Digite el segundo valor></string>
+    <string name="enviar">Enviar</string>
+</resources>
